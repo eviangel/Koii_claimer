@@ -18,5 +18,5 @@ You need to create json file that contains let's call it **"params.json"** :
 Then all you need is to call : 
 
 ```
-npx koii_claimreweards1@latest test/params.json
+npx koii_claimreweards1@latest params.json
 ```
