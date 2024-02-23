@@ -2,6 +2,9 @@
 This code is simplified from @_koii/create-task-cli , just to make claiming rewards easier. 
 You need to create json file that contains let's call it **"params.json"** : 
 
+```
+nano params.json
+```
 
 
     {"taskStateInfoAddress": "6GbpHRK3duDbo3dCEFXuJ2KD5Hg6Yo4A9LyHozeE7rjN",
