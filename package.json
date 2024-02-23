@@ -1,0 +1,31 @@
+{
+  "name": "koii_claimreweards1",
+  "version": "1.0.2",
+  "description": "Claim your Koii Task rewards.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "koii_claimreweards1": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/eviangel/Koii_claimer.git)"
+  },
+  "keywords": [
+    "koii"
+  ],
+  "author": "Pewd_crypto",
+  "license": "ISC",
+  "dependencies": {
+    "@_koi/web3.js": "^0.0.6",
+    "@spheron/storage": "^2.0.4",
+    "dotenv": "^16.0.1",
+    "prompts": "^2.4.2",
+    "yaml": "^1.10.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
