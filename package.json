@@ -1,13 +1,13 @@
 {
-  "name": "koii_claimreweards1",
-  "version": "1.0.3",
+  "name": "koii_claimrewards",
+  "version": "1.0.4",
   "description": "Claim your Koii Task rewards.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "koii_claimreweards1": "./index.js"
+    "koii_claimrewards": "./index.js"
   },
   "repository": {
     "type": "git",
