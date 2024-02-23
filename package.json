@@ -1,6 +1,6 @@
 {
   "name": "koii_claimreweards1",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Claim your Koii Task rewards.",
   "main": "index.js",
   "scripts": {
