@@ -7,9 +7,9 @@ nano params.json
 ```
 
 
-    {"taskStateInfoAddress": "6GbpHRK3duDbo3dCEFXuJ2KD5Hg6Yo4A9LyHozeE7rjN",
+    {"taskStateInfoAddress": "4ipWnABntsvJPsAkwyMF7Re4z39ZUMs2S2dfEm5aa2is",
     
-    "stakePotAccount": "FnQm11NXJxPSjza3fuhuQ6Cu4fKNqdaPkVSRyLSWf14d",
+    "stakePotAccount": "stakepotaccountsP9iQfvCxMeS7RNNgrSVTDyxJRPQ",
     
     "beneficiaryAccount": "HERE_YOUR_WALLET_PUBLIC_ADDRESS",
     
